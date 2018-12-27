@@ -1,0 +1,41 @@
+{
+	"info": {
+		"_postman_id": "a585d1f4-8dec-4cde-8d9f-3c20eb12d727",
+		"name": "real_estate_get_all_properites",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://52.14.107.115/real_estate/all_proparites_api.php",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "key",
+						"value": "Y^Tm}GHm'&>_hX0",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://52.14.107.115/real_estate/all_proparites_api.php",
+					"protocol": "http",
+					"host": [
+						"52",
+						"14",
+						"107",
+						"115"
+					],
+					"path": [
+						"real_estate",
+						"all_proparites_api.php"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
