@@ -2,7 +2,7 @@
 
 
 function db_connect(){
-	$server = false;
+	$server = true;
   if ($server === false){
     $servername = "localhost";
     $username 	= "root";
