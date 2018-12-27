@@ -20,7 +20,7 @@ function db_connect(){
 }
 
 $header = '';
-$key = "123456789";
+$key = "Y^Tm}GHm'&>_hX0";
 if(isset($_SERVER['HTTP_KEY'])) {
   $header = $_SERVER['HTTP_KEY'];
 }
